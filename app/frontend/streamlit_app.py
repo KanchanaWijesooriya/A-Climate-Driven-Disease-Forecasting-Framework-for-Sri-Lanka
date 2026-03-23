@@ -39,6 +39,19 @@ def _capped_range(lower: float, median: float, upper: float) -> tuple[float, flo
     hi = median + 0.5 * gap_hi if gap_hi > 0 else upper
     return (lo, hi)
 
+
+def _district_aggregated_total(rows: list[dict]) -> str:
+    """Compute total display from district-level lower/median/upper. Range = sum of rounded per-district bounds."""
+    if not rows:
+        return "0"
+    capped = [_capped_range(r["lower"], r["median"], r["upper"]) for r in rows]
+    total_low = sum(round(c[0]) for c in capped)
+    total_high = sum(round(c[1]) for c in capped)
+    total_median = sum(r["median"] for r in rows)
+    me_int = round(total_median)
+    return f"{total_low}-{total_high} | model predicted: {total_median:.1f} ({me_int})"
+
+
 ENSEMBLE_PLANNING_CAPTION = "Use **median** for planning; range shows model uncertainty, not a capacity target."
 
 # ---------- Page config ----------
@@ -274,13 +287,14 @@ def main():
                 date_range_str = f"{week_start} to {week_end}" if (week_start != "—" and week_end != "—") else week_start
                 is_ensemble = pred.get("model") == "ensemble"
                 if is_ensemble:
-                    me = pred.get("country_total_median", 0) or 0
-                    lo, hi = pred.get("country_total_lower", 0), pred.get("country_total_upper", 0)
-                    lo_cap, _ = _capped_range(lo, me, hi)
-                    if me != round(me):
-                        total_str = f"{me:.1f} ({math.floor(lo_cap):.0f}–{math.ceil(me):.0f})"
+                    dists = pred.get("districts") or []
+                    if dists:
+                        total_str = _district_aggregated_total(dists)
                     else:
-                        total_str = f"{me:.0f} ({lo_cap:.0f}–{me:.0f})"
+                        me = pred.get("country_total_median", 0) or 0
+                        lo, hi = pred.get("country_total_lower", 0), pred.get("country_total_upper", 0)
+                        lo_cap, hi_cap = _capped_range(lo, me, hi)
+                        total_str = f"{me:.1f} ({round(lo_cap):.0f}–{round(hi_cap):.0f})"
                 else:
                     total_str = f"{pred.get('country_total', 0):.0f}"
                 total_label = "District(s) total (pred.)" if (geo == "Select districts" and selected_districts) else "Country total (pred.)"
@@ -530,12 +544,7 @@ def main():
                         df_display["Upper"] = df_pred["upper_cap"].apply(_fmt)
                         df_display["Average cases"] = df_pred["median"].apply(_fmt_avg)
                         st.dataframe(df_display, use_container_width=True, hide_index=True)
-                        lo, me, hi = pred.get("country_total_lower", 0), pred.get("country_total_median", 0), pred.get("country_total_upper", 0)
-                        lo_cap, _ = _capped_range(lo, me, hi)
-                        if me != round(me):
-                            total_display = f"{me:.1f} ({math.floor(lo_cap):.0f}–{math.ceil(me):.0f}) cases"
-                        else:
-                            total_display = f"{me:.0f} ({lo_cap:.0f}–{me:.0f}) cases"
+                        total_display = _district_aggregated_total(pred["districts"]) + " cases"
                         st.metric("District(s) total (predicted) — use median for planning", total_display)
                         customdata = list(zip(
                             df_pred["lower_cap"].round(2),
