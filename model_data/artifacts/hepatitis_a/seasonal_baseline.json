@@ -1,0 +1,6847 @@
+{
+  "global_mean": 0.21443298969072164,
+  "fallback_mean": 0.2144025157232704,
+  "trend_slope": 0.0003875466863051587,
+  "trend_intercept": -0.04724207423815429,
+  "district_week_means": [
+    {
+      "district": "Ampara",
+      "week_number": 1,
+      "mean": 0.5
+    },
+    {
+      "district": "Ampara",
+      "week_number": 2,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 3,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 4,
+      "mean": 0.25
+    },
+    {
+      "district": "Ampara",
+      "week_number": 5,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 6,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 7,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 8,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 9,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 10,
+      "mean": 0.2
+    },
+    {
+      "district": "Ampara",
+      "week_number": 11,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 12,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 13,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 14,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 15,
+      "mean": 0.2
+    },
+    {
+      "district": "Ampara",
+      "week_number": 16,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 17,
+      "mean": 0.2
+    },
+    {
+      "district": "Ampara",
+      "week_number": 18,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 19,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 20,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 21,
+      "mean": 0.2
+    },
+    {
+      "district": "Ampara",
+      "week_number": 22,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 23,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 24,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 25,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 26,
+      "mean": 0.2
+    },
+    {
+      "district": "Ampara",
+      "week_number": 27,
+      "mean": 0.2
+    },
+    {
+      "district": "Ampara",
+      "week_number": 28,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 29,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 30,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 31,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 32,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 33,
+      "mean": 0.5
+    },
+    {
+      "district": "Ampara",
+      "week_number": 34,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 35,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 36,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 37,
+      "mean": 0.25
+    },
+    {
+      "district": "Ampara",
+      "week_number": 38,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 39,
+      "mean": 0.25
+    },
+    {
+      "district": "Ampara",
+      "week_number": 40,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 41,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 42,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 43,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 44,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 45,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 46,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 47,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 48,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 49,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 50,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 51,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 52,
+      "mean": 0.0
+    },
+    {
+      "district": "Ampara",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 1,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 2,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 3,
+      "mean": 0.25
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 4,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 5,
+      "mean": 0.25
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 6,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 7,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 8,
+      "mean": 0.2
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 9,
+      "mean": 0.4
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 10,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 11,
+      "mean": 0.2
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 12,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 13,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 14,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 15,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 16,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 17,
+      "mean": 0.2
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 18,
+      "mean": 0.2
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 19,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 20,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 21,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 22,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 23,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 24,
+      "mean": 0.2
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 25,
+      "mean": 0.4
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 26,
+      "mean": 0.2
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 27,
+      "mean": 0.8
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 28,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 29,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 30,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 31,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 32,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 33,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 34,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 35,
+      "mean": 0.25
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 36,
+      "mean": 0.25
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 37,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 38,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 39,
+      "mean": 0.5
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 40,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 41,
+      "mean": 0.25
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 42,
+      "mean": 0.25
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 43,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 44,
+      "mean": 0.75
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 45,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 46,
+      "mean": 0.25
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 47,
+      "mean": 0.75
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 48,
+      "mean": 0.0
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 49,
+      "mean": 0.25
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 50,
+      "mean": 0.75
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 51,
+      "mean": 0.25
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 52,
+      "mean": 0.5
+    },
+    {
+      "district": "Anuradhapura",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Badulla",
+      "week_number": 1,
+      "mean": 2.0
+    },
+    {
+      "district": "Badulla",
+      "week_number": 2,
+      "mean": 1.25
+    },
+    {
+      "district": "Badulla",
+      "week_number": 3,
+      "mean": 2.25
+    },
+    {
+      "district": "Badulla",
+      "week_number": 4,
+      "mean": 1.0
+    },
+    {
+      "district": "Badulla",
+      "week_number": 5,
+      "mean": 0.5
+    },
+    {
+      "district": "Badulla",
+      "week_number": 6,
+      "mean": 1.2
+    },
+    {
+      "district": "Badulla",
+      "week_number": 7,
+      "mean": 0.6
+    },
+    {
+      "district": "Badulla",
+      "week_number": 8,
+      "mean": 1.0
+    },
+    {
+      "district": "Badulla",
+      "week_number": 9,
+      "mean": 1.2
+    },
+    {
+      "district": "Badulla",
+      "week_number": 10,
+      "mean": 0.4
+    },
+    {
+      "district": "Badulla",
+      "week_number": 11,
+      "mean": 2.0
+    },
+    {
+      "district": "Badulla",
+      "week_number": 12,
+      "mean": 1.8
+    },
+    {
+      "district": "Badulla",
+      "week_number": 13,
+      "mean": 1.4
+    },
+    {
+      "district": "Badulla",
+      "week_number": 14,
+      "mean": 1.0
+    },
+    {
+      "district": "Badulla",
+      "week_number": 15,
+      "mean": 2.0
+    },
+    {
+      "district": "Badulla",
+      "week_number": 16,
+      "mean": 1.6
+    },
+    {
+      "district": "Badulla",
+      "week_number": 17,
+      "mean": 0.0
+    },
+    {
+      "district": "Badulla",
+      "week_number": 18,
+      "mean": 1.6
+    },
+    {
+      "district": "Badulla",
+      "week_number": 19,
+      "mean": 2.0
+    },
+    {
+      "district": "Badulla",
+      "week_number": 20,
+      "mean": 0.8
+    },
+    {
+      "district": "Badulla",
+      "week_number": 21,
+      "mean": 2.4
+    },
+    {
+      "district": "Badulla",
+      "week_number": 22,
+      "mean": 1.8
+    },
+    {
+      "district": "Badulla",
+      "week_number": 23,
+      "mean": 1.8
+    },
+    {
+      "district": "Badulla",
+      "week_number": 24,
+      "mean": 1.0
+    },
+    {
+      "district": "Badulla",
+      "week_number": 25,
+      "mean": 1.0
+    },
+    {
+      "district": "Badulla",
+      "week_number": 26,
+      "mean": 1.6
+    },
+    {
+      "district": "Badulla",
+      "week_number": 27,
+      "mean": 2.4
+    },
+    {
+      "district": "Badulla",
+      "week_number": 28,
+      "mean": 1.6
+    },
+    {
+      "district": "Badulla",
+      "week_number": 29,
+      "mean": 2.2
+    },
+    {
+      "district": "Badulla",
+      "week_number": 30,
+      "mean": 1.75
+    },
+    {
+      "district": "Badulla",
+      "week_number": 31,
+      "mean": 1.75
+    },
+    {
+      "district": "Badulla",
+      "week_number": 32,
+      "mean": 1.5
+    },
+    {
+      "district": "Badulla",
+      "week_number": 33,
+      "mean": 1.5
+    },
+    {
+      "district": "Badulla",
+      "week_number": 34,
+      "mean": 1.0
+    },
+    {
+      "district": "Badulla",
+      "week_number": 35,
+      "mean": 2.25
+    },
+    {
+      "district": "Badulla",
+      "week_number": 36,
+      "mean": 0.5
+    },
+    {
+      "district": "Badulla",
+      "week_number": 37,
+      "mean": 1.25
+    },
+    {
+      "district": "Badulla",
+      "week_number": 38,
+      "mean": 1.5
+    },
+    {
+      "district": "Badulla",
+      "week_number": 39,
+      "mean": 1.0
+    },
+    {
+      "district": "Badulla",
+      "week_number": 40,
+      "mean": 2.0
+    },
+    {
+      "district": "Badulla",
+      "week_number": 41,
+      "mean": 1.25
+    },
+    {
+      "district": "Badulla",
+      "week_number": 42,
+      "mean": 1.0
+    },
+    {
+      "district": "Badulla",
+      "week_number": 43,
+      "mean": 0.5
+    },
+    {
+      "district": "Badulla",
+      "week_number": 44,
+      "mean": 1.5
+    },
+    {
+      "district": "Badulla",
+      "week_number": 45,
+      "mean": 2.0
+    },
+    {
+      "district": "Badulla",
+      "week_number": 46,
+      "mean": 1.5
+    },
+    {
+      "district": "Badulla",
+      "week_number": 47,
+      "mean": 2.0
+    },
+    {
+      "district": "Badulla",
+      "week_number": 48,
+      "mean": 0.75
+    },
+    {
+      "district": "Badulla",
+      "week_number": 49,
+      "mean": 1.25
+    },
+    {
+      "district": "Badulla",
+      "week_number": 50,
+      "mean": 0.75
+    },
+    {
+      "district": "Badulla",
+      "week_number": 51,
+      "mean": 0.5
+    },
+    {
+      "district": "Badulla",
+      "week_number": 52,
+      "mean": 1.5
+    },
+    {
+      "district": "Badulla",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 1,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 2,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 3,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 4,
+      "mean": 0.5
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 5,
+      "mean": 0.25
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 6,
+      "mean": 0.2
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 7,
+      "mean": 0.2
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 8,
+      "mean": 0.2
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 9,
+      "mean": 0.2
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 10,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 11,
+      "mean": 0.2
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 12,
+      "mean": 0.2
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 13,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 14,
+      "mean": 0.4
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 15,
+      "mean": 0.4
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 16,
+      "mean": 0.2
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 17,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 18,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 19,
+      "mean": 0.2
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 20,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 21,
+      "mean": 0.2
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 22,
+      "mean": 0.2
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 23,
+      "mean": 0.4
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 24,
+      "mean": 1.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 25,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 26,
+      "mean": 0.4
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 27,
+      "mean": 0.6
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 28,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 29,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 30,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 31,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 32,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 33,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 34,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 35,
+      "mean": 0.25
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 36,
+      "mean": 0.5
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 37,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 38,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 39,
+      "mean": 0.25
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 40,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 41,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 42,
+      "mean": 0.25
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 43,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 44,
+      "mean": 0.25
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 45,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 46,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 47,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 48,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 49,
+      "mean": 0.5
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 50,
+      "mean": 0.25
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 51,
+      "mean": 0.25
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 52,
+      "mean": 0.0
+    },
+    {
+      "district": "Batticaloa",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 1,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 2,
+      "mean": 0.25
+    },
+    {
+      "district": "Colombo",
+      "week_number": 3,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 4,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 5,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 6,
+      "mean": 0.6
+    },
+    {
+      "district": "Colombo",
+      "week_number": 7,
+      "mean": 0.4
+    },
+    {
+      "district": "Colombo",
+      "week_number": 8,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 9,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 10,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 11,
+      "mean": 0.2
+    },
+    {
+      "district": "Colombo",
+      "week_number": 12,
+      "mean": 0.2
+    },
+    {
+      "district": "Colombo",
+      "week_number": 13,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 14,
+      "mean": 0.2
+    },
+    {
+      "district": "Colombo",
+      "week_number": 15,
+      "mean": 0.2
+    },
+    {
+      "district": "Colombo",
+      "week_number": 16,
+      "mean": 0.2
+    },
+    {
+      "district": "Colombo",
+      "week_number": 17,
+      "mean": 0.2
+    },
+    {
+      "district": "Colombo",
+      "week_number": 18,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 19,
+      "mean": 0.4
+    },
+    {
+      "district": "Colombo",
+      "week_number": 20,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 21,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 22,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 23,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 24,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 25,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 26,
+      "mean": 0.2
+    },
+    {
+      "district": "Colombo",
+      "week_number": 27,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 28,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 29,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 30,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 31,
+      "mean": 0.25
+    },
+    {
+      "district": "Colombo",
+      "week_number": 32,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 33,
+      "mean": 0.25
+    },
+    {
+      "district": "Colombo",
+      "week_number": 34,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 35,
+      "mean": 0.5
+    },
+    {
+      "district": "Colombo",
+      "week_number": 36,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 37,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 38,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 39,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 40,
+      "mean": 0.5
+    },
+    {
+      "district": "Colombo",
+      "week_number": 41,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 42,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 43,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 44,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 45,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 46,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 47,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 48,
+      "mean": 0.25
+    },
+    {
+      "district": "Colombo",
+      "week_number": 49,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 50,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 51,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 52,
+      "mean": 0.0
+    },
+    {
+      "district": "Colombo",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 1,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 2,
+      "mean": 0.25
+    },
+    {
+      "district": "Galle",
+      "week_number": 3,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 4,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 5,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 6,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 7,
+      "mean": 0.2
+    },
+    {
+      "district": "Galle",
+      "week_number": 8,
+      "mean": 0.2
+    },
+    {
+      "district": "Galle",
+      "week_number": 9,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 10,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 11,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 12,
+      "mean": 0.2
+    },
+    {
+      "district": "Galle",
+      "week_number": 13,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 14,
+      "mean": 0.2
+    },
+    {
+      "district": "Galle",
+      "week_number": 15,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 16,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 17,
+      "mean": 0.2
+    },
+    {
+      "district": "Galle",
+      "week_number": 18,
+      "mean": 0.2
+    },
+    {
+      "district": "Galle",
+      "week_number": 19,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 20,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 21,
+      "mean": 0.2
+    },
+    {
+      "district": "Galle",
+      "week_number": 22,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 23,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 24,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 25,
+      "mean": 0.2
+    },
+    {
+      "district": "Galle",
+      "week_number": 26,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 27,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 28,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 29,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 30,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 31,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 32,
+      "mean": 0.75
+    },
+    {
+      "district": "Galle",
+      "week_number": 33,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 34,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 35,
+      "mean": 0.5
+    },
+    {
+      "district": "Galle",
+      "week_number": 36,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 37,
+      "mean": 0.25
+    },
+    {
+      "district": "Galle",
+      "week_number": 38,
+      "mean": 0.25
+    },
+    {
+      "district": "Galle",
+      "week_number": 39,
+      "mean": 0.5
+    },
+    {
+      "district": "Galle",
+      "week_number": 40,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 41,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 42,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 43,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 44,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 45,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 46,
+      "mean": 0.25
+    },
+    {
+      "district": "Galle",
+      "week_number": 47,
+      "mean": 0.25
+    },
+    {
+      "district": "Galle",
+      "week_number": 48,
+      "mean": 0.25
+    },
+    {
+      "district": "Galle",
+      "week_number": 49,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 50,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 51,
+      "mean": 0.0
+    },
+    {
+      "district": "Galle",
+      "week_number": 52,
+      "mean": 0.5
+    },
+    {
+      "district": "Galle",
+      "week_number": 53,
+      "mean": 1.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 1,
+      "mean": 0.25
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 2,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 3,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 4,
+      "mean": 0.25
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 5,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 6,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 7,
+      "mean": 0.2
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 8,
+      "mean": 0.2
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 9,
+      "mean": 0.4
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 10,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 11,
+      "mean": 0.2
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 12,
+      "mean": 0.8
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 13,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 14,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 15,
+      "mean": 0.4
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 16,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 17,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 18,
+      "mean": 0.2
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 19,
+      "mean": 0.4
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 20,
+      "mean": 0.4
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 21,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 22,
+      "mean": 0.2
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 23,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 24,
+      "mean": 0.4
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 25,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 26,
+      "mean": 0.6
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 27,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 28,
+      "mean": 0.2
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 29,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 30,
+      "mean": 0.25
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 31,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 32,
+      "mean": 0.25
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 33,
+      "mean": 0.25
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 34,
+      "mean": 0.25
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 35,
+      "mean": 0.5
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 36,
+      "mean": 0.25
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 37,
+      "mean": 0.25
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 38,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 39,
+      "mean": 0.5
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 40,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 41,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 42,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 43,
+      "mean": 0.25
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 44,
+      "mean": 0.25
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 45,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 46,
+      "mean": 0.25
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 47,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 48,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 49,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 50,
+      "mean": 0.5
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 51,
+      "mean": 0.5
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 52,
+      "mean": 0.0
+    },
+    {
+      "district": "Gampaha",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 1,
+      "mean": 0.75
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 2,
+      "mean": 0.25
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 3,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 4,
+      "mean": 0.75
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 5,
+      "mean": 0.25
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 6,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 7,
+      "mean": 0.2
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 8,
+      "mean": 0.2
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 9,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 10,
+      "mean": 0.4
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 11,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 12,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 13,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 14,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 15,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 16,
+      "mean": 0.2
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 17,
+      "mean": 0.2
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 18,
+      "mean": 0.4
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 19,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 20,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 21,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 22,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 23,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 24,
+      "mean": 0.2
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 25,
+      "mean": 0.2
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 26,
+      "mean": 0.4
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 27,
+      "mean": 0.2
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 28,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 29,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 30,
+      "mean": 0.25
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 31,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 32,
+      "mean": 0.75
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 33,
+      "mean": 0.25
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 34,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 35,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 36,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 37,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 38,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 39,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 40,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 41,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 42,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 43,
+      "mean": 0.25
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 44,
+      "mean": 0.25
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 45,
+      "mean": 0.5
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 46,
+      "mean": 0.25
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 47,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 48,
+      "mean": 0.25
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 49,
+      "mean": 0.5
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 50,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 51,
+      "mean": 0.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 52,
+      "mean": 1.0
+    },
+    {
+      "district": "Hambantota",
+      "week_number": 53,
+      "mean": 1.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 1,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 2,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 3,
+      "mean": 0.5
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 4,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 5,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 6,
+      "mean": 0.4
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 7,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 8,
+      "mean": 0.2
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 9,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 10,
+      "mean": 0.2
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 11,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 12,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 13,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 14,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 15,
+      "mean": 0.2
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 16,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 17,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 18,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 19,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 20,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 21,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 22,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 23,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 24,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 25,
+      "mean": 0.2
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 26,
+      "mean": 0.2
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 27,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 28,
+      "mean": 0.4
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 29,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 30,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 31,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 32,
+      "mean": 0.25
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 33,
+      "mean": 0.25
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 34,
+      "mean": 0.25
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 35,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 36,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 37,
+      "mean": 0.25
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 38,
+      "mean": 0.25
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 39,
+      "mean": 0.25
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 40,
+      "mean": 0.25
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 41,
+      "mean": 0.25
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 42,
+      "mean": 0.25
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 43,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 44,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 45,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 46,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 47,
+      "mean": 0.25
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 48,
+      "mean": 0.25
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 49,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 50,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 51,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 52,
+      "mean": 0.0
+    },
+    {
+      "district": "Jaffna",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 1,
+      "mean": 0.25
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 2,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 3,
+      "mean": 0.5
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 4,
+      "mean": 0.25
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 5,
+      "mean": 0.5
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 6,
+      "mean": 0.2
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 7,
+      "mean": 0.2
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 8,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 9,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 10,
+      "mean": 0.2
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 11,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 12,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 13,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 14,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 15,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 16,
+      "mean": 0.2
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 17,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 18,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 19,
+      "mean": 0.4
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 20,
+      "mean": 0.2
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 21,
+      "mean": 0.2
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 22,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 23,
+      "mean": 0.4
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 24,
+      "mean": 0.2
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 25,
+      "mean": 0.2
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 26,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 27,
+      "mean": 0.2
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 28,
+      "mean": 0.2
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 29,
+      "mean": 0.2
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 30,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 31,
+      "mean": 0.25
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 32,
+      "mean": 0.5
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 33,
+      "mean": 0.25
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 34,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 35,
+      "mean": 0.25
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 36,
+      "mean": 0.5
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 37,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 38,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 39,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 40,
+      "mean": 0.25
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 41,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 42,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 43,
+      "mean": 0.5
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 44,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 45,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 46,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 47,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 48,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 49,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 50,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 51,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 52,
+      "mean": 0.0
+    },
+    {
+      "district": "Kalutara",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 1,
+      "mean": 0.25
+    },
+    {
+      "district": "Kandy",
+      "week_number": 2,
+      "mean": 0.75
+    },
+    {
+      "district": "Kandy",
+      "week_number": 3,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 4,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 5,
+      "mean": 0.25
+    },
+    {
+      "district": "Kandy",
+      "week_number": 6,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 7,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 8,
+      "mean": 0.2
+    },
+    {
+      "district": "Kandy",
+      "week_number": 9,
+      "mean": 0.4
+    },
+    {
+      "district": "Kandy",
+      "week_number": 10,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 11,
+      "mean": 0.4
+    },
+    {
+      "district": "Kandy",
+      "week_number": 12,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 13,
+      "mean": 0.2
+    },
+    {
+      "district": "Kandy",
+      "week_number": 14,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 15,
+      "mean": 0.2
+    },
+    {
+      "district": "Kandy",
+      "week_number": 16,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 17,
+      "mean": 0.2
+    },
+    {
+      "district": "Kandy",
+      "week_number": 18,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 19,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 20,
+      "mean": 0.2
+    },
+    {
+      "district": "Kandy",
+      "week_number": 21,
+      "mean": 0.8
+    },
+    {
+      "district": "Kandy",
+      "week_number": 22,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 23,
+      "mean": 0.2
+    },
+    {
+      "district": "Kandy",
+      "week_number": 24,
+      "mean": 0.4
+    },
+    {
+      "district": "Kandy",
+      "week_number": 25,
+      "mean": 0.2
+    },
+    {
+      "district": "Kandy",
+      "week_number": 26,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 27,
+      "mean": 0.2
+    },
+    {
+      "district": "Kandy",
+      "week_number": 28,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 29,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 30,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 31,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 32,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 33,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 34,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 35,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 36,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 37,
+      "mean": 0.25
+    },
+    {
+      "district": "Kandy",
+      "week_number": 38,
+      "mean": 0.5
+    },
+    {
+      "district": "Kandy",
+      "week_number": 39,
+      "mean": 0.75
+    },
+    {
+      "district": "Kandy",
+      "week_number": 40,
+      "mean": 0.75
+    },
+    {
+      "district": "Kandy",
+      "week_number": 41,
+      "mean": 0.5
+    },
+    {
+      "district": "Kandy",
+      "week_number": 42,
+      "mean": 0.5
+    },
+    {
+      "district": "Kandy",
+      "week_number": 43,
+      "mean": 0.5
+    },
+    {
+      "district": "Kandy",
+      "week_number": 44,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 45,
+      "mean": 0.25
+    },
+    {
+      "district": "Kandy",
+      "week_number": 46,
+      "mean": 0.25
+    },
+    {
+      "district": "Kandy",
+      "week_number": 47,
+      "mean": 0.25
+    },
+    {
+      "district": "Kandy",
+      "week_number": 48,
+      "mean": 0.75
+    },
+    {
+      "district": "Kandy",
+      "week_number": 49,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 50,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 51,
+      "mean": 0.25
+    },
+    {
+      "district": "Kandy",
+      "week_number": 52,
+      "mean": 0.0
+    },
+    {
+      "district": "Kandy",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 1,
+      "mean": 0.75
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 2,
+      "mean": 0.5
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 3,
+      "mean": 0.25
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 4,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 5,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 6,
+      "mean": 0.2
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 7,
+      "mean": 0.2
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 8,
+      "mean": 0.2
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 9,
+      "mean": 0.4
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 10,
+      "mean": 0.2
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 11,
+      "mean": 0.2
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 12,
+      "mean": 0.2
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 13,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 14,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 15,
+      "mean": 0.4
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 16,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 17,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 18,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 19,
+      "mean": 0.4
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 20,
+      "mean": 0.2
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 21,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 22,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 23,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 24,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 25,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 26,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 27,
+      "mean": 0.4
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 28,
+      "mean": 0.4
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 29,
+      "mean": 0.2
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 30,
+      "mean": 0.25
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 31,
+      "mean": 0.25
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 32,
+      "mean": 0.25
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 33,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 34,
+      "mean": 0.25
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 35,
+      "mean": 1.5
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 36,
+      "mean": 0.25
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 37,
+      "mean": 1.25
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 38,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 39,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 40,
+      "mean": 0.25
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 41,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 42,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 43,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 44,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 45,
+      "mean": 0.25
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 46,
+      "mean": 0.25
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 47,
+      "mean": 0.25
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 48,
+      "mean": 0.25
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 49,
+      "mean": 0.25
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 50,
+      "mean": 0.25
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 51,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 52,
+      "mean": 0.0
+    },
+    {
+      "district": "Kegalle",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 1,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 2,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 3,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 4,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 5,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 6,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 7,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 8,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 9,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 10,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 11,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 12,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 13,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 14,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 15,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 16,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 17,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 18,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 19,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 20,
+      "mean": 0.2
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 21,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 22,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 23,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 24,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 25,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 26,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 27,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 28,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 29,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 30,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 31,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 32,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 33,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 34,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 35,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 36,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 37,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 38,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 39,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 40,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 41,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 42,
+      "mean": 0.25
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 43,
+      "mean": 0.25
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 44,
+      "mean": 0.25
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 45,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 46,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 47,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 48,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 49,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 50,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 51,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 52,
+      "mean": 0.0
+    },
+    {
+      "district": "Kilinochchi",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 1,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 2,
+      "mean": 0.25
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 3,
+      "mean": 0.25
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 4,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 5,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 6,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 7,
+      "mean": 0.4
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 8,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 9,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 10,
+      "mean": 0.2
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 11,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 12,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 13,
+      "mean": 0.2
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 14,
+      "mean": 0.2
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 15,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 16,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 17,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 18,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 19,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 20,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 21,
+      "mean": 0.2
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 22,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 23,
+      "mean": 0.2
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 24,
+      "mean": 0.2
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 25,
+      "mean": 0.4
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 26,
+      "mean": 0.2
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 27,
+      "mean": 0.2
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 28,
+      "mean": 0.2
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 29,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 30,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 31,
+      "mean": 0.5
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 32,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 33,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 34,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 35,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 36,
+      "mean": 0.5
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 37,
+      "mean": 0.5
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 38,
+      "mean": 0.25
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 39,
+      "mean": 0.75
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 40,
+      "mean": 0.25
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 41,
+      "mean": 0.25
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 42,
+      "mean": 0.25
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 43,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 44,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 45,
+      "mean": 0.5
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 46,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 47,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 48,
+      "mean": 0.5
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 49,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 50,
+      "mean": 0.25
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 51,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 52,
+      "mean": 0.0
+    },
+    {
+      "district": "Kurunegala",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 1,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 2,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 3,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 4,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 5,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 6,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 7,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 8,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 9,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 10,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 11,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 12,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 13,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 14,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 15,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 16,
+      "mean": 0.2
+    },
+    {
+      "district": "Mannar",
+      "week_number": 17,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 18,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 19,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 20,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 21,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 22,
+      "mean": 0.2
+    },
+    {
+      "district": "Mannar",
+      "week_number": 23,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 24,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 25,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 26,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 27,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 28,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 29,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 30,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 31,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 32,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 33,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 34,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 35,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 36,
+      "mean": 0.25
+    },
+    {
+      "district": "Mannar",
+      "week_number": 37,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 38,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 39,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 40,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 41,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 42,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 43,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 44,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 45,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 46,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 47,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 48,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 49,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 50,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 51,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 52,
+      "mean": 0.0
+    },
+    {
+      "district": "Mannar",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 1,
+      "mean": 0.75
+    },
+    {
+      "district": "Matale",
+      "week_number": 2,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 3,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 4,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 5,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 6,
+      "mean": 0.2
+    },
+    {
+      "district": "Matale",
+      "week_number": 7,
+      "mean": 0.4
+    },
+    {
+      "district": "Matale",
+      "week_number": 8,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 9,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 10,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 11,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 12,
+      "mean": 0.6
+    },
+    {
+      "district": "Matale",
+      "week_number": 13,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 14,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 15,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 16,
+      "mean": 0.2
+    },
+    {
+      "district": "Matale",
+      "week_number": 17,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 18,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 19,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 20,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 21,
+      "mean": 0.2
+    },
+    {
+      "district": "Matale",
+      "week_number": 22,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 23,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 24,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 25,
+      "mean": 0.2
+    },
+    {
+      "district": "Matale",
+      "week_number": 26,
+      "mean": 0.4
+    },
+    {
+      "district": "Matale",
+      "week_number": 27,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 28,
+      "mean": 0.2
+    },
+    {
+      "district": "Matale",
+      "week_number": 29,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 30,
+      "mean": 0.75
+    },
+    {
+      "district": "Matale",
+      "week_number": 31,
+      "mean": 0.25
+    },
+    {
+      "district": "Matale",
+      "week_number": 32,
+      "mean": 0.25
+    },
+    {
+      "district": "Matale",
+      "week_number": 33,
+      "mean": 0.25
+    },
+    {
+      "district": "Matale",
+      "week_number": 34,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 35,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 36,
+      "mean": 0.25
+    },
+    {
+      "district": "Matale",
+      "week_number": 37,
+      "mean": 0.5
+    },
+    {
+      "district": "Matale",
+      "week_number": 38,
+      "mean": 0.25
+    },
+    {
+      "district": "Matale",
+      "week_number": 39,
+      "mean": 0.75
+    },
+    {
+      "district": "Matale",
+      "week_number": 40,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 41,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 42,
+      "mean": 0.25
+    },
+    {
+      "district": "Matale",
+      "week_number": 43,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 44,
+      "mean": 0.25
+    },
+    {
+      "district": "Matale",
+      "week_number": 45,
+      "mean": 0.5
+    },
+    {
+      "district": "Matale",
+      "week_number": 46,
+      "mean": 0.25
+    },
+    {
+      "district": "Matale",
+      "week_number": 47,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 48,
+      "mean": 0.25
+    },
+    {
+      "district": "Matale",
+      "week_number": 49,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 50,
+      "mean": 0.25
+    },
+    {
+      "district": "Matale",
+      "week_number": 51,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 52,
+      "mean": 0.0
+    },
+    {
+      "district": "Matale",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 1,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 2,
+      "mean": 0.25
+    },
+    {
+      "district": "Matara",
+      "week_number": 3,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 4,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 5,
+      "mean": 0.5
+    },
+    {
+      "district": "Matara",
+      "week_number": 6,
+      "mean": 0.2
+    },
+    {
+      "district": "Matara",
+      "week_number": 7,
+      "mean": 0.2
+    },
+    {
+      "district": "Matara",
+      "week_number": 8,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 9,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 10,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 11,
+      "mean": 0.4
+    },
+    {
+      "district": "Matara",
+      "week_number": 12,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 13,
+      "mean": 0.2
+    },
+    {
+      "district": "Matara",
+      "week_number": 14,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 15,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 16,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 17,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 18,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 19,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 20,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 21,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 22,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 23,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 24,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 25,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 26,
+      "mean": 0.4
+    },
+    {
+      "district": "Matara",
+      "week_number": 27,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 28,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 29,
+      "mean": 0.4
+    },
+    {
+      "district": "Matara",
+      "week_number": 30,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 31,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 32,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 33,
+      "mean": 0.5
+    },
+    {
+      "district": "Matara",
+      "week_number": 34,
+      "mean": 0.25
+    },
+    {
+      "district": "Matara",
+      "week_number": 35,
+      "mean": 0.25
+    },
+    {
+      "district": "Matara",
+      "week_number": 36,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 37,
+      "mean": 0.5
+    },
+    {
+      "district": "Matara",
+      "week_number": 38,
+      "mean": 0.25
+    },
+    {
+      "district": "Matara",
+      "week_number": 39,
+      "mean": 0.75
+    },
+    {
+      "district": "Matara",
+      "week_number": 40,
+      "mean": 0.25
+    },
+    {
+      "district": "Matara",
+      "week_number": 41,
+      "mean": 0.25
+    },
+    {
+      "district": "Matara",
+      "week_number": 42,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 43,
+      "mean": 0.25
+    },
+    {
+      "district": "Matara",
+      "week_number": 44,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 45,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 46,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 47,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 48,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 49,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 50,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 51,
+      "mean": 0.25
+    },
+    {
+      "district": "Matara",
+      "week_number": 52,
+      "mean": 0.0
+    },
+    {
+      "district": "Matara",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 1,
+      "mean": 0.75
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 2,
+      "mean": 1.5
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 3,
+      "mean": 0.0
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 4,
+      "mean": 0.0
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 5,
+      "mean": 1.75
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 6,
+      "mean": 1.2
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 7,
+      "mean": 1.0
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 8,
+      "mean": 1.4
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 9,
+      "mean": 0.6
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 10,
+      "mean": 0.8
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 11,
+      "mean": 0.6
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 12,
+      "mean": 1.6
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 13,
+      "mean": 0.8
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 14,
+      "mean": 0.4
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 15,
+      "mean": 1.8
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 16,
+      "mean": 0.2
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 17,
+      "mean": 1.8
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 18,
+      "mean": 0.6
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 19,
+      "mean": 0.4
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 20,
+      "mean": 0.2
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 21,
+      "mean": 0.6
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 22,
+      "mean": 1.2
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 23,
+      "mean": 0.4
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 24,
+      "mean": 1.4
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 25,
+      "mean": 0.8
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 26,
+      "mean": 0.6
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 27,
+      "mean": 1.0
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 28,
+      "mean": 1.6
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 29,
+      "mean": 1.8
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 30,
+      "mean": 0.5
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 31,
+      "mean": 0.75
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 32,
+      "mean": 1.0
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 33,
+      "mean": 1.0
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 34,
+      "mean": 0.5
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 35,
+      "mean": 0.5
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 36,
+      "mean": 0.25
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 37,
+      "mean": 1.0
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 38,
+      "mean": 0.0
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 39,
+      "mean": 0.75
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 40,
+      "mean": 3.5
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 41,
+      "mean": 1.5
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 42,
+      "mean": 3.75
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 43,
+      "mean": 3.25
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 44,
+      "mean": 1.75
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 45,
+      "mean": 0.25
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 46,
+      "mean": 0.75
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 47,
+      "mean": 0.25
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 48,
+      "mean": 0.75
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 49,
+      "mean": 1.0
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 50,
+      "mean": 0.5
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 51,
+      "mean": 0.75
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 52,
+      "mean": 0.25
+    },
+    {
+      "district": "Monaragala",
+      "week_number": 53,
+      "mean": 2.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 1,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 2,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 3,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 4,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 5,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 6,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 7,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 8,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 9,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 10,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 11,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 12,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 13,
+      "mean": 0.2
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 14,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 15,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 16,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 17,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 18,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 19,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 20,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 21,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 22,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 23,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 24,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 25,
+      "mean": 0.2
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 26,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 27,
+      "mean": 0.2
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 28,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 29,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 30,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 31,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 32,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 33,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 34,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 35,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 36,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 37,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 38,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 39,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 40,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 41,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 42,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 43,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 44,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 45,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 46,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 47,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 48,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 49,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 50,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 51,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 52,
+      "mean": 0.0
+    },
+    {
+      "district": "Mullaitivu",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 1,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 2,
+      "mean": 0.25
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 3,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 4,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 5,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 6,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 7,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 8,
+      "mean": 0.4
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 9,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 10,
+      "mean": 0.4
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 11,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 12,
+      "mean": 0.2
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 13,
+      "mean": 2.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 14,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 15,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 16,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 17,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 18,
+      "mean": 0.4
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 19,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 20,
+      "mean": 0.2
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 21,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 22,
+      "mean": 0.4
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 23,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 24,
+      "mean": 0.2
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 25,
+      "mean": 0.2
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 26,
+      "mean": 0.2
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 27,
+      "mean": 0.2
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 28,
+      "mean": 0.6
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 29,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 30,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 31,
+      "mean": 1.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 32,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 33,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 34,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 35,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 36,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 37,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 38,
+      "mean": 0.5
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 39,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 40,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 41,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 42,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 43,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 44,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 45,
+      "mean": 0.25
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 46,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 47,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 48,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 49,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 50,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 51,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 52,
+      "mean": 0.0
+    },
+    {
+      "district": "Nuwara Eliya",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 1,
+      "mean": 0.25
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 2,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 3,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 4,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 5,
+      "mean": 0.5
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 6,
+      "mean": 0.6
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 7,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 8,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 9,
+      "mean": 1.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 10,
+      "mean": 1.2
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 11,
+      "mean": 0.2
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 12,
+      "mean": 0.4
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 13,
+      "mean": 0.2
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 14,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 15,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 16,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 17,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 18,
+      "mean": 0.2
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 19,
+      "mean": 0.2
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 20,
+      "mean": 0.2
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 21,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 22,
+      "mean": 0.4
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 23,
+      "mean": 0.4
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 24,
+      "mean": 0.2
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 25,
+      "mean": 0.2
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 26,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 27,
+      "mean": 0.4
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 28,
+      "mean": 1.2
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 29,
+      "mean": 0.25
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 30,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 31,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 32,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 33,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 34,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 35,
+      "mean": 0.25
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 36,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 37,
+      "mean": 0.25
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 38,
+      "mean": 0.75
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 39,
+      "mean": 0.75
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 40,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 41,
+      "mean": 0.25
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 42,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 43,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 44,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 45,
+      "mean": 0.25
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 46,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 47,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 48,
+      "mean": 0.25
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 49,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 50,
+      "mean": 0.75
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 51,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 52,
+      "mean": 0.0
+    },
+    {
+      "district": "Polonnaruwa",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 1,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 2,
+      "mean": 0.25
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 3,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 4,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 5,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 6,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 7,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 8,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 9,
+      "mean": 0.2
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 10,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 11,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 12,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 13,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 14,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 15,
+      "mean": 0.2
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 16,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 17,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 18,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 19,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 20,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 21,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 22,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 23,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 24,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 25,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 26,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 27,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 28,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 29,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 30,
+      "mean": 0.25
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 31,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 32,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 33,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 34,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 35,
+      "mean": 0.25
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 36,
+      "mean": 0.5
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 37,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 38,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 39,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 40,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 41,
+      "mean": 0.25
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 42,
+      "mean": 0.25
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 43,
+      "mean": 0.25
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 44,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 45,
+      "mean": 0.25
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 46,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 47,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 48,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 49,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 50,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 51,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 52,
+      "mean": 0.0
+    },
+    {
+      "district": "Puttalam",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 1,
+      "mean": 0.25
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 2,
+      "mean": 0.25
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 3,
+      "mean": 1.25
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 4,
+      "mean": 0.0
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 5,
+      "mean": 0.25
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 6,
+      "mean": 1.2
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 7,
+      "mean": 1.2
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 8,
+      "mean": 0.6
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 9,
+      "mean": 0.2
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 10,
+      "mean": 0.6
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 11,
+      "mean": 0.4
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 12,
+      "mean": 0.6
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 13,
+      "mean": 1.0
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 14,
+      "mean": 0.4
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 15,
+      "mean": 0.8
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 16,
+      "mean": 0.2
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 17,
+      "mean": 0.0
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 18,
+      "mean": 0.6
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 19,
+      "mean": 0.8
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 20,
+      "mean": 0.6
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 21,
+      "mean": 0.2
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 22,
+      "mean": 0.2
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 23,
+      "mean": 0.2
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 24,
+      "mean": 0.0
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 25,
+      "mean": 0.2
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 26,
+      "mean": 0.0
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 27,
+      "mean": 0.4
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 28,
+      "mean": 0.8
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 29,
+      "mean": 0.4
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 30,
+      "mean": 1.0
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 31,
+      "mean": 0.5
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 32,
+      "mean": 0.25
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 33,
+      "mean": 0.25
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 34,
+      "mean": 0.0
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 35,
+      "mean": 0.0
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 36,
+      "mean": 0.0
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 37,
+      "mean": 0.25
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 38,
+      "mean": 1.0
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 39,
+      "mean": 0.25
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 40,
+      "mean": 0.25
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 41,
+      "mean": 0.0
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 42,
+      "mean": 0.0
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 43,
+      "mean": 0.0
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 44,
+      "mean": 0.0
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 45,
+      "mean": 0.75
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 46,
+      "mean": 0.25
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 47,
+      "mean": 0.25
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 48,
+      "mean": 0.5
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 49,
+      "mean": 0.5
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 50,
+      "mean": 0.25
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 51,
+      "mean": 0.75
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 52,
+      "mean": 0.25
+    },
+    {
+      "district": "Ratnapura",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 1,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 2,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 3,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 4,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 5,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 6,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 7,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 8,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 9,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 10,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 11,
+      "mean": 0.4
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 12,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 13,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 14,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 15,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 16,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 17,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 18,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 19,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 20,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 21,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 22,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 23,
+      "mean": 0.2
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 24,
+      "mean": 0.2
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 25,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 26,
+      "mean": 0.2
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 27,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 28,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 29,
+      "mean": 0.2
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 30,
+      "mean": 0.25
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 31,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 32,
+      "mean": 0.25
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 33,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 34,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 35,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 36,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 37,
+      "mean": 2.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 38,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 39,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 40,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 41,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 42,
+      "mean": 0.25
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 43,
+      "mean": 0.25
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 44,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 45,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 46,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 47,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 48,
+      "mean": 0.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 49,
+      "mean": 1.5
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 50,
+      "mean": 0.25
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 51,
+      "mean": 0.25
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 52,
+      "mean": 1.0
+    },
+    {
+      "district": "Trincomalee",
+      "week_number": 53,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 1,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 2,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 3,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 4,
+      "mean": 0.25
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 5,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 6,
+      "mean": 0.4
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 7,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 8,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 9,
+      "mean": 0.4
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 10,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 11,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 12,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 13,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 14,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 15,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 16,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 17,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 18,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 19,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 20,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 21,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 22,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 23,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 24,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 25,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 26,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 27,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 28,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 29,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 30,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 31,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 32,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 33,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 34,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 35,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 36,
+      "mean": 0.25
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 37,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 38,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 39,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 40,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 41,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 42,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 43,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 44,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 45,
+      "mean": 0.25
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 46,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 47,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 48,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 49,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 50,
+      "mean": 0.25
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 51,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 52,
+      "mean": 0.0
+    },
+    {
+      "district": "Vavuniya",
+      "week_number": 53,
+      "mean": 0.0
+    }
+  ],
+  "week_means": [
+    {
+      "week_number": 1,
+      "mean": 0.27
+    },
+    {
+      "week_number": 2,
+      "mean": 0.24
+    },
+    {
+      "week_number": 3,
+      "mean": 0.21
+    },
+    {
+      "week_number": 4,
+      "mean": 0.13
+    },
+    {
+      "week_number": 5,
+      "mean": 0.2
+    },
+    {
+      "week_number": 6,
+      "mean": 0.264
+    },
+    {
+      "week_number": 7,
+      "mean": 0.216
+    },
+    {
+      "week_number": 8,
+      "mean": 0.2
+    },
+    {
+      "week_number": 9,
+      "mean": 0.216
+    },
+    {
+      "week_number": 10,
+      "mean": 0.192
+    },
+    {
+      "week_number": 11,
+      "mean": 0.216
+    },
+    {
+      "week_number": 12,
+      "mean": 0.272
+    },
+    {
+      "week_number": 13,
+      "mean": 0.248
+    },
+    {
+      "week_number": 14,
+      "mean": 0.112
+    },
+    {
+      "week_number": 15,
+      "mean": 0.272
+    },
+    {
+      "week_number": 16,
+      "mean": 0.128
+    },
+    {
+      "week_number": 17,
+      "mean": 0.12
+    },
+    {
+      "week_number": 18,
+      "mean": 0.176
+    },
+    {
+      "week_number": 19,
+      "mean": 0.208
+    },
+    {
+      "week_number": 20,
+      "mean": 0.128
+    },
+    {
+      "week_number": 21,
+      "mean": 0.208
+    },
+    {
+      "week_number": 22,
+      "mean": 0.184
+    },
+    {
+      "week_number": 23,
+      "mean": 0.168
+    },
+    {
+      "week_number": 24,
+      "mean": 0.224
+    },
+    {
+      "week_number": 25,
+      "mean": 0.184
+    },
+    {
+      "week_number": 26,
+      "mean": 0.232
+    },
+    {
+      "week_number": 27,
+      "mean": 0.296
+    },
+    {
+      "week_number": 28,
+      "mean": 0.296
+    },
+    {
+      "week_number": 29,
+      "mean": 0.23333333333333334
+    },
+    {
+      "week_number": 30,
+      "mean": 0.21
+    },
+    {
+      "week_number": 31,
+      "mean": 0.22
+    },
+    {
+      "week_number": 32,
+      "mean": 0.24
+    },
+    {
+      "week_number": 33,
+      "mean": 0.21
+    },
+    {
+      "week_number": 34,
+      "mean": 0.1
+    },
+    {
+      "week_number": 35,
+      "mean": 0.29
+    },
+    {
+      "week_number": 36,
+      "mean": 0.17
+    },
+    {
+      "week_number": 37,
+      "mean": 0.35
+    },
+    {
+      "week_number": 38,
+      "mean": 0.22
+    },
+    {
+      "week_number": 39,
+      "mean": 0.32
+    },
+    {
+      "week_number": 40,
+      "mean": 0.33
+    },
+    {
+      "week_number": 41,
+      "mean": 0.19
+    },
+    {
+      "week_number": 42,
+      "mean": 0.29
+    },
+    {
+      "week_number": 43,
+      "mean": 0.25
+    },
+    {
+      "week_number": 44,
+      "mean": 0.21
+    },
+    {
+      "week_number": 45,
+      "mean": 0.24
+    },
+    {
+      "week_number": 46,
+      "mean": 0.17
+    },
+    {
+      "week_number": 47,
+      "mean": 0.17
+    },
+    {
+      "week_number": 48,
+      "mean": 0.2
+    },
+    {
+      "week_number": 49,
+      "mean": 0.23
+    },
+    {
+      "week_number": 50,
+      "mean": 0.2
+    },
+    {
+      "week_number": 51,
+      "mean": 0.15
+    },
+    {
+      "week_number": 52,
+      "mean": 0.2
+    },
+    {
+      "week_number": 53,
+      "mean": 0.16
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+    "Leptospirosis": {
+        "Top_Feature_1": "district_week_mean",
+        "Top_Feature_2": "target_roll_mean_2",
+        "Top_Feature_3": "target_roll_mean_4",
+        "Top_Feature_4": "target_lag_1",
+        "Top_Feature_5": "target_roll_max_2",
+        "Top_Feature_1_Importance": 1.419299602508545,
+        "Top_Feature_2_Importance": 1.2511178255081177,
+        "Top_Feature_3_Importance": 1.1116845607757568,
+        "Top_Feature_4_Importance": 0.6577715873718262,
+        "Top_Feature_5_Importance": 0.4290957450866699,
+        "Total_Features_Analyzed": 56,
+        "Test_Samples": 7275
+    },
+    "Typhus": {
+        "Top_Feature_1": "district_week_mean",
+        "Top_Feature_2": "target_roll_mean_4",
+        "Top_Feature_3": "target_roll_mean_2",
+        "Top_Feature_4": "target_roll_max_2",
+        "Top_Feature_5": "target_lag_1",
+        "Top_Feature_1_Importance": 0.5241913199424744,
+        "Top_Feature_2_Importance": 0.10695008188486099,
+        "Top_Feature_3_Importance": 0.0999811664223671,
+        "Top_Feature_4_Importance": 0.09644132107496262,
+        "Top_Feature_5_Importance": 0.08125753700733185,
+        "Total_Features_Analyzed": 56,
+        "Test_Samples": 7275
+    },
+    "Hepatitis A": {
+        "Top_Feature_1": "district_week_mean",
+        "Top_Feature_2": "target_roll_mean_12",
+        "Top_Feature_3": "target_roll_std_12",
+        "Top_Feature_4": "late_dist_mean",
+        "Top_Feature_5": "target_roll_mean_8",
+        "Top_Feature_1_Importance": 0.16314980387687683,
+        "Top_Feature_2_Importance": 0.06019662693142891,
+        "Top_Feature_3_Importance": 0.04387185350060463,
+        "Top_Feature_4_Importance": 0.023455938324332237,
+        "Top_Feature_5_Importance": 0.022725317627191544,
+        "Total_Features_Analyzed": 40,
+        "Test_Samples": 7275
+    },
+    "Chickenpox": {
+        "Top_Feature_1": "target_roll_mean_12",
+        "Top_Feature_2": "target_roll_mean_8",
+        "Top_Feature_3": "district_week_mean",
+        "Top_Feature_4": "target_roll_mean_4",
+        "Top_Feature_5": "target_roll_mean_2",
+        "Top_Feature_1_Importance": 0.7840039134025574,
+        "Top_Feature_2_Importance": 0.7440203428268433,
+        "Top_Feature_3_Importance": 0.6475319862365723,
+        "Top_Feature_4_Importance": 0.6394340395927429,
+        "Top_Feature_5_Importance": 0.34858623147010803,
+        "Total_Features_Analyzed": 56,
+        "Test_Samples": 7275
+    }
+}

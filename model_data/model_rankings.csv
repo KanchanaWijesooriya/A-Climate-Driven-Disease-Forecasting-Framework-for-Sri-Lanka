@@ -1,0 +1,5 @@
+Disease,Best_MAE,Best_RMSE,Best_R2
+Leptospirosis,LSTM,LSTM,LSTM
+Typhus,Ensemble,LSTM,LSTM
+Hepatitis A,Ensemble,LSTM,LSTM
+Chickenpox,LSTM,LSTM,LSTM

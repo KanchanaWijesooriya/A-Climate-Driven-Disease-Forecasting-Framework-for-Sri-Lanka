@@ -1,0 +1,56 @@
+{
+    "production_date": "2026-03-13 20:26:21",
+    "model_selection": "LSTM",
+    "rationale": "LSTM selected as primary model after fine-tuning comparison with ensemble methods",
+    "diseases": [
+        "Leptospirosis",
+        "Typhus",
+        "Hepatitis A",
+        "Chickenpox"
+    ],
+    "model_artifacts": {
+        "Leptospirosis": {
+            "model_path": "/home/chanuka002/Research/model_data/artifacts/leptospirosis/leptospirosis_lstm_model.h5",
+            "scaler_path": "/home/chanuka002/Research/model_data/artifacts/leptospirosis/leptospirosis_scaler.pkl",
+            "config_path": "/home/chanuka002/Research/model_data/artifacts/leptospirosis/leptospirosis_config.json",
+            "mae": 6.4257731437683105,
+            "r2": 0.0010297894477844238,
+            "directory": "/home/chanuka002/Research/model_data/artifacts/leptospirosis"
+        },
+        "Typhus": {
+            "model_path": "/home/chanuka002/Research/model_data/artifacts/typhus/typhus_lstm_model.h5",
+            "scaler_path": "/home/chanuka002/Research/model_data/artifacts/typhus/typhus_scaler.pkl",
+            "config_path": "/home/chanuka002/Research/model_data/artifacts/typhus/typhus_config.json",
+            "mae": 1.296061635017395,
+            "r2": -0.0007104873657226562,
+            "directory": "/home/chanuka002/Research/model_data/artifacts/typhus"
+        },
+        "Hepatitis A": {
+            "model_path": "/home/chanuka002/Research/model_data/artifacts/hepatitis_a/hepatitis_a_lstm_model.h5",
+            "scaler_path": "/home/chanuka002/Research/model_data/artifacts/hepatitis_a/hepatitis_a_scaler.pkl",
+            "config_path": "/home/chanuka002/Research/model_data/artifacts/hepatitis_a/hepatitis_a_config.json",
+            "mae": 0.40795835852622986,
+            "r2": -0.004007697105407715,
+            "directory": "/home/chanuka002/Research/model_data/artifacts/hepatitis_a"
+        },
+        "Chickenpox": {
+            "model_path": "/home/chanuka002/Research/model_data/artifacts/chickenpox/chickenpox_lstm_model.h5",
+            "scaler_path": "/home/chanuka002/Research/model_data/artifacts/chickenpox/chickenpox_scaler.pkl",
+            "config_path": "/home/chanuka002/Research/model_data/artifacts/chickenpox/chickenpox_config.json",
+            "mae": 3.42450213432312,
+            "r2": -0.013588428497314453,
+            "directory": "/home/chanuka002/Research/model_data/artifacts/chickenpox"
+        }
+    },
+    "sequence_length": 4,
+    "prediction_type": "Point predictions with real-world output",
+    "deployment_ready": true,
+    "usage": {
+        "step_1": "Load LSTM model from .h5 file",
+        "step_2": "Load scaler from .pkl file",
+        "step_3": "Preprocess input features using scaler",
+        "step_4": "Create sequences of length 4 from time-series features",
+        "step_5": "Generate predictions using model.predict()",
+        "step_6": "Apply post-processing (ensure non-negative values)"
+    }
+}

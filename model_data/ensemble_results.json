@@ -1,0 +1,62 @@
+{
+    "Leptospirosis": {
+        "MAE": 2.661659393746971,
+        "RMSE": 5.226630996081546,
+        "R2": 0.7156244598678295,
+        "Interval_Coverage": 0.9030927835051547,
+        "Interval_Width": 13.138946954974388,
+        "XGBoost_Weight": 0.99,
+        "LightGBM_Weight": 0.01,
+        "Model": "XGBoost + LightGBM Blended",
+        "Test_Samples": 7275,
+        "Baseline_Ridge_MAE": 3.2769996145518414,
+        "Baseline_Ridge_R2": 0.671746970591302,
+        "Baseline_DT_MAE": 3.2208374189704863,
+        "Baseline_DT_R2": 0.6802566649706577
+    },
+    "Typhus": {
+        "MAE": 0.6277564287550712,
+        "RMSE": 1.9594812819381275,
+        "R2": 0.7164411217966864,
+        "Interval_Coverage": 0.9311340206185567,
+        "Interval_Width": 2.721937625060896,
+        "XGBoost_Weight": 0.01,
+        "LightGBM_Weight": 0.99,
+        "Model": "XGBoost + LightGBM Blended",
+        "Test_Samples": 7275,
+        "Baseline_Ridge_MAE": 0.6735446991481306,
+        "Baseline_Ridge_R2": 0.8426964035585045,
+        "Baseline_DT_MAE": 0.641615745257619,
+        "Baseline_DT_R2": 0.8307837139591714
+    },
+    "Hepatitis A": {
+        "MAE": 0.25266560256914017,
+        "RMSE": 0.6351783449496057,
+        "R2": 0.3119886656783112,
+        "Interval_Coverage": 0.9861168384879725,
+        "Interval_Width": 1.4467886108255863,
+        "XGBoost_Weight": 0.99,
+        "LightGBM_Weight": 0.01,
+        "Model": "XGBoost + LightGBM Blended",
+        "Test_Samples": 7275,
+        "Baseline_Ridge_MAE": 0.29757785797998415,
+        "Baseline_Ridge_R2": 0.40719678924642544,
+        "Baseline_DT_MAE": 0.27463621283831796,
+        "Baseline_DT_R2": 0.4410383154921266
+    },
+    "Chickenpox": {
+        "MAE": 1.5970062384262318,
+        "RMSE": 2.6910273957533852,
+        "R2": 0.7205709848013827,
+        "Interval_Coverage": 0.9138144329896907,
+        "Interval_Width": 7.552719364884957,
+        "XGBoost_Weight": 0.9885786019592471,
+        "LightGBM_Weight": 0.011421398040752909,
+        "Model": "XGBoost + LightGBM Blended",
+        "Test_Samples": 7275,
+        "Baseline_Ridge_MAE": 1.788945614756067,
+        "Baseline_Ridge_R2": 0.6952780793295906,
+        "Baseline_DT_MAE": 1.7493458689345318,
+        "Baseline_DT_R2": 0.7053954898908039
+    }
+}

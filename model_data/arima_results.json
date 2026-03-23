@@ -1,0 +1,42 @@
+{
+    "Leptospirosis": {
+        "MAE": 8.446269682032954,
+        "RMSE": 13.985966117851786,
+        "R2": -0.12938969500040587,
+        "Interval_Coverage": 0.8680109990834097,
+        "Interval_Width": 23.730440844833076,
+        "Model": "ARIMA(1,0,1)",
+        "Train_Samples": 5820,
+        "Test_Samples": 1091
+    },
+    "Typhus": {
+        "MAE": 1.3187411772011628,
+        "RMSE": 3.1343313073633716,
+        "R2": -0.00106888567925556,
+        "Interval_Coverage": 0.9780018331805683,
+        "Interval_Width": 8.556432271178384,
+        "Model": "ARIMA(1,0,1)",
+        "Train_Samples": 5820,
+        "Test_Samples": 1091
+    },
+    "Hepatitis A": {
+        "MAE": 0.505310470734483,
+        "RMSE": 0.9524699873192983,
+        "R2": -0.0397018107911451,
+        "Interval_Coverage": 0.922089825847846,
+        "Interval_Width": 1.6013737174207687,
+        "Model": "ARIMA(1,0,1)",
+        "Train_Samples": 5820,
+        "Test_Samples": 1091
+    },
+    "Chickenpox": {
+        "MAE": 5.361013331727193,
+        "RMSE": 7.397762925996616,
+        "R2": -0.12721477820493798,
+        "Interval_Coverage": 0.7818515123739689,
+        "Interval_Width": 12.677421249572818,
+        "Model": "ARIMA(1,0,1)",
+        "Train_Samples": 5820,
+        "Test_Samples": 1091
+    }
+}

@@ -1,0 +1,186 @@
+python step_05_lstm_validation.py
+2026-02-14 13:54:45.627793: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers
+ on your machine, GPU will not be used.                                                                     2026-02-14 13:54:45.696768: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is o
+ptimized to use available CPU instructions in performance-critical operations.                              To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate
+ compiler flags.                                                                                            2026-02-14 13:54:47.172173: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers
+ on your machine, GPU will not be used.                                                                     Step 4.5: LSTM Deep Learning Model - Sequential Prediction Validation
+================================================================================
+
+================================================================================
+Processing Leptospirosis - LSTM Model
+================================================================================
+Features: 40
+Original train shape: (6400, 40), test shape: (875, 40)
+Sequenced train shape: (6396, 4, 40), test shape: (871, 4, 40)
+
+Building LSTM architecture...
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1771057488.856533   37329 cuda_executor.cc:1309] INTERNAL: CUDA Runtime error: Failed call to cu
+daGetRuntimeVersion: Error loading CUDA libraries. GPU will not be used.: Error loading CUDA libraries. GPU will not be used.                                                                                           W0000 00:00:1771057488.867351   37329 gpu_device.cc:2342] Cannot dlopen some GPU libraries. Please make sure
+ the missing libraries mentioned above are installed properly if you would like to use GPU. Follow the guide at https://www.tensorflow.org/install/gpu for how to download and setup the required libraries for your platform.                                                                                                      Skipping registering GPU devices...
+Model compiled
+Model: "sequential"
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┓
+┃ Layer (type)                         ┃ Output Shape                ┃         Param # ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━┩
+│ lstm (LSTM)                          │ (None, 4, 64)               │          26,880 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout (Dropout)                    │ (None, 4, 64)               │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ lstm_1 (LSTM)                        │ (None, 32)                  │          12,416 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout_1 (Dropout)                  │ (None, 32)                  │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dense (Dense)                        │ (None, 16)                  │             528 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dense_1 (Dense)                      │ (None, 1)                   │              17 │
+└──────────────────────────────────────┴─────────────────────────────┴─────────────────┘
+ Total params: 39,841 (155.63 KB)
+ Trainable params: 39,841 (155.63 KB)
+ Non-trainable params: 0 (0.00 B)
+None
+
+Training LSTM model...
+Training completed after 7 epochs
+Generating predictions...
+
+LSTM Model Performance:
+  MAE: 5.4406
+  RMSE: 8.3908
+  R2 Score: 0.0278
+Saved predictions: /home/chanuka002/Research/model_data/leptospirosis_lstm_predictions.csv
+
+================================================================================
+Processing Typhus - LSTM Model
+================================================================================
+Features: 40
+Original train shape: (6400, 40), test shape: (875, 40)
+Sequenced train shape: (6396, 4, 40), test shape: (871, 4, 40)
+
+Building LSTM architecture...
+Model compiled
+Model: "sequential"
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┓
+┃ Layer (type)                         ┃ Output Shape                ┃         Param # ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━┩
+│ lstm (LSTM)                          │ (None, 4, 64)               │          26,880 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout (Dropout)                    │ (None, 4, 64)               │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ lstm_1 (LSTM)                        │ (None, 32)                  │          12,416 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout_1 (Dropout)                  │ (None, 32)                  │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dense (Dense)                        │ (None, 16)                  │             528 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dense_1 (Dense)                      │ (None, 1)                   │              17 │
+└──────────────────────────────────────┴─────────────────────────────┴─────────────────┘
+ Total params: 39,841 (155.63 KB)
+ Trainable params: 39,841 (155.63 KB)
+ Non-trainable params: 0 (0.00 B)
+None
+
+Training LSTM model...
+Training completed after 16 epochs
+Generating predictions...
+
+LSTM Model Performance:
+  MAE: 1.0568
+  RMSE: 2.4536
+  R2 Score: 0.0648
+Saved predictions: /home/chanuka002/Research/model_data/typhus_lstm_predictions.csv
+
+================================================================================
+Processing Hepatitis A - LSTM Model
+================================================================================
+Features: 40
+Original train shape: (6400, 40), test shape: (875, 40)
+Sequenced train shape: (6396, 4, 40), test shape: (871, 4, 40)
+
+Building LSTM architecture...
+Model compiled
+Model: "sequential"
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┓
+┃ Layer (type)                         ┃ Output Shape                ┃         Param # ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━┩
+│ lstm (LSTM)                          │ (None, 4, 64)               │          26,880 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout (Dropout)                    │ (None, 4, 64)               │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ lstm_1 (LSTM)                        │ (None, 32)                  │          12,416 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout_1 (Dropout)                  │ (None, 32)                  │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dense (Dense)                        │ (None, 16)                  │             528 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dense_1 (Dense)                      │ (None, 1)                   │              17 │
+└──────────────────────────────────────┴─────────────────────────────┴─────────────────┘
+ Total params: 39,841 (155.63 KB)
+ Trainable params: 39,841 (155.63 KB)
+ Non-trainable params: 0 (0.00 B)
+None
+
+Training LSTM model...
+Training completed after 6 epochs
+Generating predictions...
+
+LSTM Model Performance:
+  MAE: 0.4272
+  RMSE: 0.7463
+  R2 Score: 0.0661
+Saved predictions: /home/chanuka002/Research/model_data/hepatitis_a_lstm_predictions.csv
+
+================================================================================
+Processing Chickenpox - LSTM Model
+================================================================================
+Features: 40
+Original train shape: (6400, 40), test shape: (875, 40)
+Sequenced train shape: (6396, 4, 40), test shape: (871, 4, 40)
+
+Building LSTM architecture...
+Model compiled
+Model: "sequential"
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┓
+┃ Layer (type)                         ┃ Output Shape                ┃         Param # ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━┩
+│ lstm (LSTM)                          │ (None, 4, 64)               │          26,880 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout (Dropout)                    │ (None, 4, 64)               │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ lstm_1 (LSTM)                        │ (None, 32)                  │          12,416 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout_1 (Dropout)                  │ (None, 32)                  │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dense (Dense)                        │ (None, 16)                  │             528 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dense_1 (Dense)                      │ (None, 1)                   │              17 │
+└──────────────────────────────────────┴─────────────────────────────┴─────────────────┘
+ Total params: 39,841 (155.63 KB)
+ Trainable params: 39,841 (155.63 KB)
+ Non-trainable params: 0 (0.00 B)
+None
+
+Training LSTM model...
+Training completed after 15 epochs
+Generating predictions...
+
+LSTM Model Performance:
+  MAE: 6.1304
+  RMSE: 8.8288
+  R2 Score: -0.4928
+Saved predictions: /home/chanuka002/Research/model_data/chickenpox_lstm_predictions.csv
+
+================================================================================
+LSTM Validation Complete
+
+LSTM Metrics Summary:
+                    MAE      RMSE        R2        Model Sequence_Length Epochs_Trained Test_Samples
+Leptospirosis  5.440554  8.390821  0.027844  LSTM(64-32)               4              7          871
+Typhus         1.056829  2.453597  0.064764  LSTM(64-32)               4             16          871
+Hepatitis A    0.427156  0.746278  0.066076  LSTM(64-32)               4              6          871
+Chickenpox     6.130395  8.828844 -0.492771  LSTM(64-32)               4             15          871
+
+Metrics saved: /home/chanuka002/Research/model_data/lstm_metrics.csv
+JSON results saved: /home/chanuka002/Research/model_data/lstm_results.json
+
+Next step: Model evaluation and comparison across all approaches

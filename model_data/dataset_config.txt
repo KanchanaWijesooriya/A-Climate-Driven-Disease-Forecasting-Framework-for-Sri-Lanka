@@ -1,0 +1,5 @@
+split: 80% train, 10% val, 10% test (val/test interleaved from last 20%)
+diseases: ['Leptospirosis', 'Typhus', 'Hepatitis A', 'Chickenpox']
+n_predictive_features: 40
+n_metadata_cols: 5
+output_directory: /home/chanuka002/Research/model_data

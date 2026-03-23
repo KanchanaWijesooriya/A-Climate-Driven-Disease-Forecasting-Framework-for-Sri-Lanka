@@ -1,0 +1,4 @@
+{
+  "xgb_weight": 0.01,
+  "lgb_weight": 0.99
+}
